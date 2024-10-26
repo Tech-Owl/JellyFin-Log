@@ -1,0 +1,261 @@
+{"Protocol":0,"Id":"a1f2cbee11ccfb6c4e7fbc679221f572","Path":"/mnt/jellyfin/anime/Frieren - Beyond Journey\u0027s End/Season 1/Frieren - Beyond Journey\u0027s End - S01E15 - Smells Like Trouble WEBRip-1080p.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":1514990295,"Name":"Frieren - Beyond Journey\u0027s End - S01E15 - Smells Like Trouble WEBRip-1080p","IsRemote":false,"ETag":"699b7efa476fe0eddb846951959c4d85","RunTimeTicks":14701250000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Japanese [Uncut]","VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"Japanese [Uncut] - 1080p - H264 - SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":8244144,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":40,"IsAnamorphic":false},{"Codec":"aac","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Japanese","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"Japanese - AAC - Stereo - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":44100,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"aac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"English - AAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":44100,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Dialogue","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Dialogue - English - Default - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Signs/Songs","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Signs/Songs - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":8628144,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -ss 00:06:39.000 -init_hw_device drm=dr:/dev/dri/renderD128 -init_hw_device vaapi=va@dr -init_hw_device vulkan=vk@dr -filter_hw_device vk -hwaccel vaapi -hwaccel_output_format vaapi -noautorotate -i file:"/mnt/jellyfin/anime/Frieren - Beyond Journey's End/Season 1/Frieren - Beyond Journey's End - S01E15 - Smells Like Trouble WEBRip-1080p.mkv" -noautoscale -map_metadata -1 -map_chapters -1 -threads 4 -map 0:0 -map 0:1 -map -0:0 -codec:v:0 hevc_vaapi -tag:v:0 hvc1 -rc_mode VBR -b:v 8244144 -maxrate 8244144 -bufsize 16488288 -sei -a53_cc -force_key_frames:0 "expr:gte(t,n_forced*3)" -flags:v -global_header -filter_complex "alphasrc=s=1920x1080:r=23.976025:start='00\:06\:39\.000',format=bgra,subtitles=f='/mnt/jellyfin/anime/Frieren - Beyond Journey'\\\''s End/Season 1/Frieren - Beyond Journey'\\\''s End - S01E15 - Smells Like Trouble WEBRip-1080p.mkv':si=0:alpha=1:sub2video=1:fontsdir='/var/cache/jellyfin/attachments/a1f2cbee11ccfb6c4e7fbc679221f572',hwupload=derive_device=vulkan,format=vulkan[sub];[0:0]setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,hwmap=derive_device=vulkan,format=vulkan,libplacebo=upscaler=none:downscaler=none:format=bgra[main];[main][sub]overlay_vulkan=eof_action=pass:repeatlast=0,hwmap=derive_device=vaapi,format=vaapi,scale_vaapi=format=nv12" -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 133 -hls_segment_filename "/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada%d.ts" -hls_playlist_type vod -hls_list_size 0 -y "/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada.m3u8"
+
+
+ffmpeg version 6.0.1-Jellyfin Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu4)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vaapi --enable-amf --enable-libvpl --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+[matroska,webm @ 0x570b0f72f6c0] Unknown/unsupported AVCodecID DISABLED.
+[matroska,webm @ 0x570b0f72f6c0] Could not find codec parameters for stream 5 (Subtitle: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (200000000) and 'probesize' (1000000000) options
+Input #0, matroska,webm, from 'file:/mnt/jellyfin/anime/Frieren - Beyond Journey's End/Season 1/Frieren - Beyond Journey's End - S01E15 - Smells Like Trouble WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : no_variable_data
+  Duration: 00:24:30.13, start: 0.000000, bitrate: 8244 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 90.000000
+      Metadata:
+        title           : Opening
+    Chapter #0:1: start 90.000000, end 1460.000000
+      Metadata:
+        title           : Episode
+    Chapter #0:2: start 1460.000000, end 1470.000000
+      Metadata:
+        title           : Preview Start
+    Chapter #0:3: start 1470.000000, end 1470.125000
+      Metadata:
+        title           : Preview End
+  Stream #0:0(jpn): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+    Metadata:
+      title           : Japanese [Uncut]
+  Stream #0:1(jpn): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+    Metadata:
+      title           : Japanese
+  Stream #0:2(eng): Audio: aac (LC), 44100 Hz, stereo, fltp
+    Metadata:
+      title           : English
+  Stream #0:3(eng): Subtitle: ass (default)
+    Metadata:
+      title           : Dialogue
+  Stream #0:4(eng): Subtitle: ass
+    Metadata:
+      title           : Signs/Songs
+  Stream #0:5(eng): Subtitle: none
+    Metadata:
+      title           : English cc
+[Parsed_subtitles_2 @ 0x570b0f84f880] libass API version: 0x1703000
+[Parsed_subtitles_2 @ 0x570b0f84f880] libass source: commit: 0.17.3-0-ge46aedea0a0d17da4c4ef49d84b94a7994664ab5
+[Parsed_subtitles_2 @ 0x570b0f84f880] Shaper: FriBidi 1.0.15 (SIMPLE) HarfBuzz-ng 9.0.0 (COMPLEX)
+[matroska,webm @ 0x570b1543e980] Unknown/unsupported AVCodecID DISABLED.
+[matroska,webm @ 0x570b1543e980] Could not find codec parameters for stream 5 (Subtitle: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[Parsed_subtitles_2 @ 0x570b0f84f880] Using font provider fontconfig
+Stream mapping:
+  Stream #0:0 (h264) -> setparams:default
+  scale_vaapi:default -> Stream #0:0 (hevc_vaapi)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_2 @ 0x570b1d071e80] libass API version: 0x1703000
+[Parsed_subtitles_2 @ 0x570b1d071e80] libass source: commit: 0.17.3-0-ge46aedea0a0d17da4c4ef49d84b94a7994664ab5
+[Parsed_subtitles_2 @ 0x570b1d071e80] Shaper: FriBidi 1.0.15 (SIMPLE) HarfBuzz-ng 9.0.0 (COMPLEX)
+[matroska,webm @ 0x570b0fa92240] Unknown/unsupported AVCodecID DISABLED.
+[matroska,webm @ 0x570b0fa92240] Could not find codec parameters for stream 5 (Subtitle: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[Parsed_subtitles_2 @ 0x570b1d071e80] Using font provider fontconfig
+[Parsed_subtitles_2 @ 0x570b1d071e80] fontselect: (Trebuchet MS, 400, 0) -> /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf, 0, DejaVuSans
+[hevc_vaapi @ 0x570b1542ff80] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+Output #0, hls, to '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada.m3u8':
+  Metadata:
+    encoder         : Lavf60.3.100
+  Stream #0:0: Video: hevc (Main) (hvc1 / 0x31637668), vaapi(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 8244 kb/s, 23.98 fps, 90k tbn
+    Metadata:
+      encoder         : Lavc60.3.100 hevc_vaapi
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+frame=    0 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+frame=   32 fps=0.0 q=-0.0 size=N/A time=00:00:01.44 bitrate=N/A speed=1.55x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada133.ts' for writing
+frame=  101 fps= 70 q=-0.0 size=N/A time=00:00:04.20 bitrate=N/A speed=2.92x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada134.ts' for writing
+frame=  157 fps= 80 q=-0.0 size=N/A time=00:00:06.57 bitrate=N/A speed=3.37x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada135.ts' for writing
+frame=  218 fps= 89 q=-0.0 size=N/A time=00:00:09.10 bitrate=N/A speed=3.71x    
+frame=  280 fps= 95 q=-0.0 size=N/A time=00:00:11.79 bitrate=N/A speed=3.99x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada136.ts' for writing
+frame=  345 fps=100 q=-0.0 size=N/A time=00:00:14.48 bitrate=N/A speed=4.19x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada137.ts' for writing
+frame=  409 fps=103 q=-0.0 size=N/A time=00:00:17.04 bitrate=N/A speed=4.31x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada138.ts' for writing
+frame=  465 fps=104 q=-0.0 size=N/A time=00:00:19.45 bitrate=N/A speed=4.36x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada139.ts' for writing
+frame=  534 fps=108 q=-0.0 size=N/A time=00:00:22.38 bitrate=N/A speed=4.51x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada140.ts' for writing
+frame=  595 fps=109 q=-0.0 size=N/A time=00:00:24.80 bitrate=N/A speed=4.53x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada141.ts' for writing
+frame=  661 fps=111 q=-0.0 size=N/A time=00:00:27.65 bitrate=N/A speed=4.63x    
+frame=  719 fps=111 q=-0.0 size=N/A time=00:00:30.02 bitrate=N/A speed=4.63x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada142.ts' for writing
+frame=  778 fps=111 q=-0.0 size=N/A time=00:00:32.46 bitrate=N/A speed=4.64x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada143.ts' for writing
+frame=  842 fps=112 q=-0.0 size=N/A time=00:00:35.10 bitrate=N/A speed=4.68x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada144.ts' for writing
+frame=  905 fps=113 q=-0.0 size=N/A time=00:00:37.84 bitrate=N/A speed=4.73x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada145.ts' for writing
+frame=  961 fps=113 q=-0.0 size=N/A time=00:00:40.05 bitrate=N/A speed=4.71x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada146.ts' for writing
+frame= 1023 fps=113 q=-0.0 size=N/A time=00:00:42.65 bitrate=N/A speed=4.73x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada147.ts' for writing
+frame= 1086 fps=114 q=-0.0 size=N/A time=00:00:45.30 bitrate=N/A speed=4.75x    
+frame= 1135 fps=112 q=-0.0 size=N/A time=00:00:47.34 bitrate=N/A speed=4.68x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada148.ts' for writing
+frame= 1204 fps=113 q=-0.0 size=N/A time=00:00:50.24 bitrate=N/A speed=4.73x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada149.ts' for writing
+frame= 1272 fps=114 q=-0.0 size=N/A time=00:00:53.12 bitrate=N/A speed=4.77x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada150.ts' for writing
+frame= 1343 fps=115 q=-0.0 size=N/A time=00:00:56.05 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada151.ts' for writing
+frame= 1408 fps=116 q=-0.0 size=N/A time=00:00:58.79 bitrate=N/A speed=4.84x    
+[Parsed_subtitles_2 @ 0x570b1d071e80] fontselect: (Trebuchet MS, 400, 100) -> /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf, 0, DejaVuSans
+frame= 1439 fps=113 q=-0.0 size=N/A time=00:01:00.07 bitrate=N/A speed=4.71x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada152.ts' for writing
+frame= 1506 fps=114 q=-0.0 size=N/A time=00:01:02.85 bitrate=N/A speed=4.74x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada153.ts' for writing
+frame= 1577 fps=115 q=-0.0 size=N/A time=00:01:05.87 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada154.ts' for writing
+frame= 1644 fps=115 q=-0.0 size=N/A time=00:01:08.63 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada155.ts' for writing
+frame= 1714 fps=116 q=-0.0 size=N/A time=00:01:11.51 bitrate=N/A speed=4.85x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada156.ts' for writing
+frame= 1784 fps=117 q=-0.0 size=N/A time=00:01:14.51 bitrate=N/A speed=4.88x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada157.ts' for writing
+frame= 1854 fps=118 q=-0.0 size=N/A time=00:01:17.37 bitrate=N/A speed=4.91x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada158.ts' for writing
+frame= 1919 fps=118 q=-0.0 size=N/A time=00:01:20.08 bitrate=N/A speed=4.92x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada159.ts' for writing
+frame= 1977 fps=118 q=-0.0 size=N/A time=00:01:22.45 bitrate=N/A speed=4.91x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada160.ts' for writing
+frame= 2039 fps=118 q=-0.0 size=N/A time=00:01:25.03 bitrate=N/A speed=4.92x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada161.ts' for writing
+frame= 2093 fps=118 q=-0.0 size=N/A time=00:01:27.35 bitrate=N/A speed=4.91x    
+frame= 2142 fps=117 q=-0.0 size=N/A time=00:01:29.35 bitrate=N/A speed=4.88x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada162.ts' for writing
+frame= 2214 fps=118 q=-0.0 size=N/A time=00:01:32.39 bitrate=N/A speed=4.91x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada163.ts' for writing
+frame= 2268 fps=118 q=-0.0 size=N/A time=00:01:34.59 bitrate=N/A speed= 4.9x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada164.ts' for writing
+frame= 2318 fps=117 q=-0.0 size=N/A time=00:01:36.73 bitrate=N/A speed=4.89x    
+frame= 2364 fps=116 q=-0.0 size=N/A time=00:01:38.66 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada165.ts' for writing
+frame= 2430 fps=117 q=-0.0 size=N/A time=00:01:41.35 bitrate=N/A speed=4.87x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada166.ts' for writing
+frame= 2488 fps=117 q=-0.0 size=N/A time=00:01:43.74 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada167.ts' for writing
+frame= 2535 fps=116 q=-0.0 size=N/A time=00:01:45.76 bitrate=N/A speed=4.84x    
+frame= 2583 fps=116 q=-0.0 size=N/A time=00:01:47.76 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada168.ts' for writing
+frame= 2640 fps=116 q=-0.0 size=N/A time=00:01:50.13 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada169.ts' for writing
+frame= 2704 fps=115 q=-0.0 size=N/A time=00:01:52.82 bitrate=N/A speed= 4.8x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada170.ts' for writing
+frame= 2771 fps=115 q=-0.0 size=N/A time=00:01:55.56 bitrate=N/A speed=4.81x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada171.ts' for writing
+frame= 2841 fps=116 q=-0.0 size=N/A time=00:01:58.49 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada172.ts' for writing
+frame= 2909 fps=116 q=-0.0 size=N/A time=00:02:01.37 bitrate=N/A speed=4.85x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada173.ts' for writing
+frame= 2972 fps=116 q=-0.0 size=N/A time=00:02:03.94 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada174.ts' for writing
+frame= 3034 fps=117 q=-0.0 size=N/A time=00:02:06.52 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada175.ts' for writing
+frame= 3095 fps=117 q=-0.0 size=N/A time=00:02:09.08 bitrate=N/A speed=4.86x    
+frame= 3153 fps=117 q=-0.0 size=N/A time=00:02:11.58 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada176.ts' for writing
+frame= 3208 fps=116 q=-0.0 size=N/A time=00:02:13.79 bitrate=N/A speed=4.85x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada177.ts' for writing
+frame= 3268 fps=116 q=-0.0 size=N/A time=00:02:16.32 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada178.ts' for writing
+frame= 3329 fps=117 q=-0.0 size=N/A time=00:02:18.87 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada179.ts' for writing
+frame= 3390 fps=117 q=-0.0 size=N/A time=00:02:21.41 bitrate=N/A speed=4.86x    
+frame= 3452 fps=117 q=-0.0 size=N/A time=00:02:23.96 bitrate=N/A speed=4.87x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada180.ts' for writing
+frame= 3509 fps=117 q=-0.0 size=N/A time=00:02:26.44 bitrate=N/A speed=4.87x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada181.ts' for writing
+frame= 3570 fps=117 q=-0.0 size=N/A time=00:02:28.93 bitrate=N/A speed=4.87x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada182.ts' for writing
+frame= 3620 fps=116 q=-0.0 size=N/A time=00:02:30.99 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada183.ts' for writing
+frame= 3671 fps=116 q=-0.0 size=N/A time=00:02:33.11 bitrate=N/A speed=4.85x    
+frame= 3735 fps=116 q=-0.0 size=N/A time=00:02:35.80 bitrate=N/A speed=4.86x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada184.ts' for writing
+frame= 3792 fps=116 q=-0.0 size=N/A time=00:02:38.15 bitrate=N/A speed=4.85x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada185.ts' for writing
+frame= 3839 fps=116 q=-0.0 size=N/A time=00:02:40.17 bitrate=N/A speed=4.84x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada186.ts' for writing
+frame= 3891 fps=116 q=-0.0 size=N/A time=00:02:42.35 bitrate=N/A speed=4.83x    
+frame= 3951 fps=116 q=-0.0 size=N/A time=00:02:44.79 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada187.ts' for writing
+frame= 4007 fps=116 q=-0.0 size=N/A time=00:02:47.18 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada188.ts' for writing
+frame= 4068 fps=116 q=-0.0 size=N/A time=00:02:49.67 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada189.ts' for writing
+frame= 4130 fps=116 q=-0.0 size=N/A time=00:02:52.36 bitrate=N/A speed=4.84x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada190.ts' for writing
+frame= 4189 fps=116 q=-0.0 size=N/A time=00:02:54.73 bitrate=N/A speed=4.84x    
+frame= 4242 fps=116 q=-0.0 size=N/A time=00:02:56.91 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada191.ts' for writing
+frame= 4291 fps=116 q=-0.0 size=N/A time=00:02:59.02 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada192.ts' for writing
+frame= 4340 fps=115 q=-0.0 size=N/A time=00:03:01.06 bitrate=N/A speed=4.81x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada193.ts' for writing
+frame= 4392 fps=115 q=-0.0 size=N/A time=00:03:03.18 bitrate=N/A speed= 4.8x    
+frame= 4445 fps=115 q=-0.0 size=N/A time=00:03:05.43 bitrate=N/A speed= 4.8x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada194.ts' for writing
+frame= 4497 fps=115 q=-0.0 size=N/A time=00:03:07.64 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada195.ts' for writing
+frame= 4556 fps=115 q=-0.0 size=N/A time=00:03:10.00 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada196.ts' for writing
+frame= 4615 fps=115 q=-0.0 size=N/A time=00:03:12.58 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada197.ts' for writing
+frame= 4677 fps=115 q=-0.0 size=N/A time=00:03:15.04 bitrate=N/A speed= 4.8x    
+frame= 4732 fps=115 q=-0.0 size=N/A time=00:03:17.46 bitrate=N/A speed= 4.8x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada198.ts' for writing
+frame= 4785 fps=115 q=-0.0 size=N/A time=00:03:19.64 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada199.ts' for writing
+frame= 4845 fps=115 q=-0.0 size=N/A time=00:03:22.19 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada200.ts' for writing
+frame= 4906 fps=115 q=-0.0 size=N/A time=00:03:24.59 bitrate=N/A speed=4.79x    
+frame= 4956 fps=115 q=-0.0 size=N/A time=00:03:26.82 bitrate=N/A speed=4.79x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada201.ts' for writing
+frame= 5025 fps=115 q=-0.0 size=N/A time=00:03:29.65 bitrate=N/A speed= 4.8x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada202.ts' for writing
+frame= 5090 fps=115 q=-0.0 size=N/A time=00:03:32.39 bitrate=N/A speed=4.81x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada203.ts' for writing
+frame= 5153 fps=115 q=-0.0 size=N/A time=00:03:34.97 bitrate=N/A speed=4.81x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada204.ts' for writing
+frame= 5212 fps=115 q=-0.0 size=N/A time=00:03:37.47 bitrate=N/A speed=4.81x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada205.ts' for writing
+frame= 5277 fps=115 q=-0.0 size=N/A time=00:03:40.21 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada206.ts' for writing
+frame= 5338 fps=115 q=-0.0 size=N/A time=00:03:42.63 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada207.ts' for writing
+frame= 5399 fps=116 q=-0.0 size=N/A time=00:03:45.25 bitrate=N/A speed=4.82x    
+frame= 5459 fps=116 q=-0.0 size=N/A time=00:03:47.67 bitrate=N/A speed=4.82x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada208.ts' for writing
+frame= 5524 fps=116 q=-0.0 size=N/A time=00:03:50.41 bitrate=N/A speed=4.83x    
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada209.ts' for writing
+frame= 5546 fps=115 q=-0.0 size=N/A time=00:03:51.29 bitrate=N/A speed=4.79x    
+
+[q] command received. Exiting.
+
+[hls @ 0x570b1543e980] Opening '/var/cache/jellyfin/transcodes/72bf03bf439fccf87c823806d9670ada210.ts' for writing
+frame= 5563 fps=115 q=-0.0 Lsize=N/A time=00:03:51.85 bitrate=N/A speed=4.79x    
+video:233314kB audio:3637kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
